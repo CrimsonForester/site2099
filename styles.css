@@ -57,9 +57,9 @@ body{
     text-decoration: underline;
 }
 .p-txt{
+    line-height: 27px;
     margin-bottom: 8px;
     font-family: sans-serif;
     font-weight: bolder;
     display: flex;
-    line-height: 1.8;
 }
